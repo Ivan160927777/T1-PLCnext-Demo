@@ -703,7 +703,7 @@ sudo /etc/init.d/plcnext start
 cd /opt/main/
 ```
 
-И запусціць выкананы файл `ptusa_main`
+І запусціць выкананы файл `ptusa_main`
 
 ```bash
 ./ptusa_main main.plua sys_path ./sys/

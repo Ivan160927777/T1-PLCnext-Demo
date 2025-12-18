@@ -666,7 +666,7 @@ sudo /etc/init.d/plcnext start
 ![выбор](images/model_AXLFBKETH.png)
 <p align="center"> Рисунок 37 - Выбар маделі прылады сапражэння з шынай</p>
 
-Ціснем на **Next** і выбіраем тып далучэння. У наышм выпадке Ethernet:
+Ціснем на **Next** і выбіраем тып далучэння. У нашым выпадке Ethernet:
 
 ![настройка](images/Sellect_the_type_of_connection.png)
 <p align="center"> Рысунак 39 - Наладка сеткавыых параметраў</p>

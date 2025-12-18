@@ -407,7 +407,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 
 - Скапируйце файл прашыўкі *.raucb у **/opt/plcnext** каталог (каталог па змаўчанні карыстальніка Linux «admin»).
 
-- Адкройце камандную абалонку з дапамогай інструмента каманднай стракі (напрыклад, [PuTTY](https://www.putty.org/), у WinSCP спалучэнне клавіш Ctrl+P).
+- Адкройце камандную абалонку з дапамогай інструмента каманднага радка (напрыклад, [PuTTY](https://www.putty.org/), у WinSCP спалучэнне клавіш Ctrl+P).
 
 - Аўтарызуйцеся як адміністратар.
 

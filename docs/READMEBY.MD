@@ -412,7 +412,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 - Аўтарызуйцеся як адміністратар.
 
 Па змаўчанні уведзіце наступныя дадзеныя для аўтарызацыі:
-Имя карыстальніка: admin
+Імя карыстальніка: admin
 Пароль: на кантролеры.
 
 - Перайдзіце у **/opt/plcnext** каталог (каманда: *cd /opt/plcnext*).

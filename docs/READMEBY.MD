@@ -361,7 +361,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 
 - Скачайце файл прашыўкі фармата *.zip апошняй версіі **LTS** на сайце Phoenix Contact.
 
-- Распакуйце *.zip файл прашыўцы.
+- Распакуйце *.zip файл прашыўкі.
 
 - Запусціце файл устаноўкі *.exe.
 

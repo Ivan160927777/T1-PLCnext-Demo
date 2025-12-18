@@ -231,7 +231,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/ptusa_main.git
 git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.git
 ```
 
-Калі кланірвалі без падмодулей, то іх можна праініцыялізіраваць асобна:
+Калі кланіравалі без падмодулей, то іх можна праініцыялізіраваць асобна:
 
   ```cmd
   git submodule --init --recursive

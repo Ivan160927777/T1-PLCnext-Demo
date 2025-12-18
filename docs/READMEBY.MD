@@ -239,7 +239,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 
 - запусціць Visual Studio, выбраць *адкрыць лакальны каталог->D:\\ ...\ptusa_main*
 
-- зверху ў кіраўніцтве канфшгурацыямі выбраць *Windows Debug(windows-VS2022-debug-build-windows-VS2022-debug)*
+- зверху ў кіраўніцтве канфігурацыямі выбраць *Windows Debug(windows-VS2022-debug-build-windows-VS2022-debug)*
 
 - выбраць элемент запуска *ptusa_main.exe(Debug\ptusa_main.exe)*
 

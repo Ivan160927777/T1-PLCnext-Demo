@@ -80,7 +80,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 
 Апошняя версія Git LFS знаходзіцца [тут](https://git-lfs.github.com/).
 
-Каб устанавіць Git LFS, выкайце наступнае:
+Каб устанавіць Git LFS, выканайце наступнае:
 
 - Скачайце файл прашыўцы фармату *.exe апошняй версіі з сайта.
 

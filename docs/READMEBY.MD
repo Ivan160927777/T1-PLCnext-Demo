@@ -319,7 +319,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 
 - У адраснай страке ўводзім IP-адрас кантролера па змаўчанні *192.168.1.10*
 
-Далей сайт апавясціць вас, што ваше злучэнне не з'яуляецца прыватным.
+Далей сайт апавясціць вас, што ваше злучэнне не з'яўляецца прыватным.
 
 <p align="center">
 <img align="center" src="images/Move.PNG">

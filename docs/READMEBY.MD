@@ -243,7 +243,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 
 - выбраць элемент запуска *ptusa_main.exe(Debug\ptusa_main.exe)*
 
-- далей неабходна перайсці ў *Адладка->Параметры адладкі і запуска для ptusa_main>* і даполніць файл *launch.vs.json*, прапісвая асаблівыя шляхі к файлам
+- далей неабходна перайсці ў *Адладка->Параметры адладкі і запуска для ptusa_main>* і даполніць файл *launch.vs.json*, прапісвая асаблівыя шляхі да файлаў
 
 ```Json
 {

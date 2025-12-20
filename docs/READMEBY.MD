@@ -719,7 +719,7 @@ chmod +x ptusa_main
 
 Распрацаваны дэмастэнд:
 
-![агульны выгляд](images/demo_stанд.jpg)
+![агульны выгляд](images/demo_stand.jpg)
 <p align="center"> Рысунак 42 - Агульны выгляд</p>
 
 ![агульны выгляд](images/demo_stand_p1.jpg)

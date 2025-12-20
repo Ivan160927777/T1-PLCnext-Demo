@@ -307,7 +307,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 <img align="center" src="images/ping_2.png"> </p>
 <p align="center"> Рысунак 18 - Паспяховая праца каманды "ping 192.168.1.11" </p>
 
-- У браўзэры прапісваем IP-адрас: 192.168.1.11 и ціснем "Enter", пасля чаго адбудзецца пераход на стартавую старонку Bus Coupler.
+- У браўзэры прапісваем IP-адрас: 192.168.1.11 і ціснем "Enter", пасля чаго адбудзецца пераход на стартавую старонку Bus Coupler.
 
 <p align="center">
 <img align="center" src="images/bus_coupler_chrome.png"> </p>

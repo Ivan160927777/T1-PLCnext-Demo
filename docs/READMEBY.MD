@@ -719,11 +719,11 @@ chmod +x ptusa_main
 
 Распрацаваны дэмастэнд:
 
-![общий вид](images/demo_stand.jpg)
+![агульны выгляд](images/demo_stанд.jpg)
 <p align="center"> Рысунак 42 - Агульны выгляд</p>
 
-![общий вид](images/demo_stand_p1.jpg)
+![агульны выгляд](images/demo_stand_p1.jpg)
 <p align="center"> Рысунак 43 - Кантролер і вузел увода\выводу</p>
 
-![общий вид](images/demo_stand_p2_BY.jpg)
+![агульны выгляд](images/demo_stand_p2_BY.jpg)
 <p align="center"> Рысунак 44 - Датчыкі і выканаўчыя прылады</p>

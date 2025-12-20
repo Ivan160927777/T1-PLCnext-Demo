@@ -287,7 +287,7 @@ git clone --recurse-submodules https://github.com/savushkin-r-d/T1-PLCnext-Demo.
 <img align="center" src="images/ethernet_set.png"> </p>
 <p align="center"> Рысунак 15 - Наладка Ethernet </p>
 
-- Выбіраем пункт "IP версіі 4 (TCP/IPv4)" и ціснем кнопку "Уласцівасці".
+- Выбіраем пункт "IP версіі 4 (TCP/IPv4)" і ціснем кнопку "Уласцівасці".
 
   - Запаўняем паля "IP-адрас" і "Маска падсетки" як паказана на рысунке 15.
 

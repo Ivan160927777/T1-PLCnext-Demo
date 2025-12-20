@@ -433,7 +433,7 @@ sudo update-axcf2152
 
 Капиіруем каталог праекта *PLCnext*, які знаходзіцца тут - **https://github.com/savushkin-r-d/T1-PLCnext-Demo/releases/latest** - у каталог праекта ў падкаталог **PLCnext Engineer**.
 
-### Праца з праектам ў срадзе PLCnext Engineer
+### Праца з праектам ў асяроддзі PLCnext Engineer
 
 Запускаем PLCnext Engineer, адчыняем файл праекта, які находзіца ў гэтым каталоге - **PLCnext Engineer\T1-PLCNext-Demo.pcwex**.
 

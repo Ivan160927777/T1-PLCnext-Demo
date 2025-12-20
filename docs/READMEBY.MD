@@ -581,7 +581,7 @@ passwd: password changed.
 
 - Адчыніце файл */etc/ssh/sshd_config* у прыдатным рэдактары ў **WinSCP**.
 
-- У раздзеле #Authentication: раскаменціруйце запісь: `#PermitRootLogin yes`.
+- У раздзеле #Authentication: раскаментуйце запісь: `#PermitRootLogin yes`.
 
 - Перазапусціце службу SSH з дапамогай *sudo /etc/init.d/sshd restart*
 

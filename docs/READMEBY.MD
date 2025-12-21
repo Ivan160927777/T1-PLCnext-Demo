@@ -669,7 +669,7 @@ sudo /etc/init.d/plcnext start
 Ціснем на **Next** і выбіраем тып далучэння. У нашым выпадке Ethernet:
 
 ![наладка](images/Sellect_the_type_of_connection.png)
-<p align="center"> Рысунак 39 - Наладка сеткавыых параметраў</p>
+<p align="center"> Рысунак 39 - Наладка сеткавых параметраў</p>
 
 Далей выбіраем пункт *Адшукаць прыладу ў сетцы і задаць IP address*:
 
